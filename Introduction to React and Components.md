@@ -1,6 +1,6 @@
 # Introduction to React and Components.md
 
-in this introductin will explain most important thing in React (Component)
+in this introduction  will explain most important thing in React (Component)
 
 > ## Component-Based Architecture
 
