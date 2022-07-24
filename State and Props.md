@@ -1,5 +1,7 @@
 # State and Props
 
+**Here very important base of React**
+
 > Reading
 
 1- **Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?**
@@ -75,3 +77,8 @@ Boootstrap Cheatsheet
 Bootstrap Shuffle - a class “sandbox”
 
 Netlify
+
+
+## Things I want to know more about
+
+Nothing for today
