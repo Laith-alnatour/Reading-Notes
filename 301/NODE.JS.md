@@ -71,9 +71,12 @@ During a five-hour paired lab session, Code Fellows students work on all four of
 
 > Bookmark and Review
 
-. [An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
+. [Geocoding API Docs](https://locationiq.com/)
 
-. [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+. [Axios docs](https://www.npmjs.com/package/axios)
+
+. [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
+
 
 ## Things I want to know more about
 
