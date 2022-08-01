@@ -11,7 +11,7 @@
 
 1. **What does REST stand for?**
 
-Roy Fielding proposed Representational State Transfer
+Representational State Transfer
 
 
 2. **REST APIs are designed around a _resources___.**
