@@ -84,9 +84,9 @@ will achieve a breakpoint in the line of code we want to break at.
 
 > Bookmark and Review
 
-. [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c?gi=d5bb57c1c187)
+. [JavaScript error messages](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4)
 
-. [JavaScript errors reference on MDN](https://gist.github.com/brookr/5977550](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
+. [JavaScript errors reference on MDN](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 
 
 ## Things I want to know more about
