@@ -21,3 +21,6 @@
 [Functional Programming.md](https://github.com/Laith-alnatour/Reading-Notes/blob/main/301/Functional%20Programming.md)
 
 [In memory storage.md](https://github.com/Laith-alnatour/Reading-Notes/blob/main/301/In%20memory%20storage.md)
+
+[Mongo and Mongoose.md](https://github.com/Laith-alnatour/Reading-Notes/blob/main/301/Mongo%20and%20Mongoose.md)
+
